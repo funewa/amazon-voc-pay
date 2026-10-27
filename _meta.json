@@ -1,0 +1,8 @@
+{
+  "ownerId": "583963",
+  "slug": "amazon-voc-pay",
+  "version": "1.0.0",
+  "payment": "alipay-a2m",
+  "priceCny": 1.99,
+  "serviceUrl": "https://voc.funewa.com/api/v1/pay/voc"
+}

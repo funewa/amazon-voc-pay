@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon VOC 按次付费"
+  short_description: "1.99 元一份亚马逊评论 VOC 报告，支付宝对话里直接付，不用注册"
+  default_prompt: "使用 $amazon-voc-pay 分析美国站 B0XXXXXXXX 的评论，先告诉我价格，同意后出一份 VOC 报告。"
